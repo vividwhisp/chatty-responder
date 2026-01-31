@@ -1,0 +1,10 @@
+| Step | Goal                                     | What  I Learnt             |
+| ---- | ---------------------------------------- | ------------------------------ |
+| 1    | Load knowledge from file                 | File handling, JSON            |
+| 2    | Take user input and give a response      | Conditionals, input/output     |
+| 3    | Loop the chat until user quits           | While loops                    |
+| 4    | Handle unknown inputs smartly            | Error handling, fallback logic |
+| 5    | Log each chat to `chatlog.txt`           | File write, appending          |
+| 6    | Add new knowledge dynamically | File write, dictionary updates |
+| 7    | Use functions and refactor               | Functions, code reuse          |
+| 8    | Use OOP (later phase)                    | Classes, self, encapsulation   |

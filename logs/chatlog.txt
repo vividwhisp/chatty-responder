@@ -1,0 +1,89 @@
+
+
+You: python -u "c:\users\brijesh\onedrive\desktop\python files\chatbot\chatbot.py"
+YOUR DAD: python -u "c:\Users\Brijesh\OneDrive\Desktop\Python Files\CHATBOT\chatbot.py"
+You: what?
+YOUR DAD: TEACH ME DAWGG!!
+You: keys
+You: kole
+YOUR DAD: TEACH ME DAWGG!!
+You: hey
+YOUR DAD: TEACH ME DAWGG!!
+You: hello
+YOUR DAD: TEACH ME DAWGG!!
+You: hey
+YOUR DAD: heyy
+You: hello
+YOUR DAD: Hey! How can i help you today.
+You: hello
+YOUR DAD: Hey! How can i help you today.
+You: how are you
+YOUR DAD: I am just a chatbot nigga , how do you think i will be!! I am Fine tho.
+You: hello
+YOUR DAD: Hey! How can i help you today.
+You: how are you
+YOUR DAD: I am just a chatbot nigga , how do you think i will be!! I am Fine tho.
+You: hey
+YOUR DAD: heyy
+You: help me
+YOUR DAD: I am here to help you dawg just tell me the problem my precious nigga
+You: 2 + 2
+YOUR DAD: TEACH ME DAWGG!!
+You: 2 + 2
+YOUR DAD: 4
+You: 7 + 3
+YOUR DAD: 10
+You: 7 + 3
+YOUR DAD: 10
+You: hey
+YOUR DAD: heyy
+You: how are you
+YOUR DAD: I am just a chatbot nigga , how do you think i will be!! I am Fine tho.
+You: hey
+YOUR DAD: heyy
+You: hello
+YOUR DAD: Hey! How can i help you today.
+You: how are you
+YOUR DAD: I am just a chatbot nigga , how do you think i will be!! I am Fine tho.
+You: who made you
+YOUR DAD: I am a simple chatbot made my vividwhisp.(i am not allowed to disclose my creator's name)
+You: what is your name
+YOUR DAD: giganiga
+You: what is your name
+YOUR DAD: giganiga
+You: hey
+YOUR DAD: heyy
+You: hey
+YOUR DAD: Hey! How's it going?
+You: hi
+YOUR DAD: Hi there! What can I do for you?
+You: okay
+YOUR DAD: Alright! What can I do for you?
+You: how are you
+YOUR DAD: I'm doing well, thank you! I'm here and ready to help. How are you?
+You: ok
+YOUR DAD: Okay! What would you like to talk about or ask?
+You: what is love
+YOUR DAD: Love is a complex emotion involving deep affection, care, and attachment to someone or something.
+You: python -u "c:\users\brijesh\onedrive\desktop\python files\chatbot\chatbot.py"
+YOUR DAD: python -u "c:\Users\Brijesh\OneDrive\Desktop\Python Files\CHATBOT\chatbot.py"
+You: python -u "c:\users\brijesh\onedrive\desktop\python files\chatbot\chatbot.py"
+YOUR DAD: python -u "c:\Users\Brijesh\OneDrive\Desktop\Python Files\CHATBOT\chatbot.py"
+You: hello
+YOUR DAD: Hello! How can I help you today?
+You: hello
+YOUR DAD: Hello! How can I help you today?
+You: what is ai
+YOUR DAD: AI stands for Artificial Intelligence - technology that enables machines to perform tasks that typically require human intelligence.
+You: ok
+YOUR DAD: Okay! What would you like to talk about or ask?
+You: okay
+YOUR DAD: Alright! What can I do for you?
+You: what is your name
+YOUR DAD: I'm a helpful chatbot assistant. You can call me Bot!
+You: hey
+YOUR DAD: Hey! How's it going?
+You: im good
+YOUR DAD: i am good too
+You: im good
+YOUR DAD: i am good too

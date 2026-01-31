@@ -1,0 +1,21 @@
+START
+  ↓
+Load knowledge from JSON
+  ↓
+Show welcome message
+  ↓
+WHILE True:
+    ↓
+  Take user input
+    ↓
+  If input in knowledge:
+       → Respond with matching answer
+    ELSE:
+       → Say "I don't understand."
+    ↓
+  Log the conversation
+    ↓
+  If user says "bye" or "exit"
+       → BREAK
+  ↓
+END
