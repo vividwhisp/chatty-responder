@@ -1,7 +1,3 @@
-
-
-You: python -u "c:\users\brijesh\onedrive\desktop\python files\chatbot\chatbot.py"
-YOUR DAD: python -u "c:\Users\Brijesh\OneDrive\Desktop\Python Files\CHATBOT\chatbot.py"
 You: what?
 YOUR DAD: TEACH ME DAWGG!!
 You: keys
@@ -64,11 +60,6 @@ YOUR DAD: I'm doing well, thank you! I'm here and ready to help. How are you?
 You: ok
 YOUR DAD: Okay! What would you like to talk about or ask?
 You: what is love
-YOUR DAD: Love is a complex emotion involving deep affection, care, and attachment to someone or something.
-You: python -u "c:\users\brijesh\onedrive\desktop\python files\chatbot\chatbot.py"
-YOUR DAD: python -u "c:\Users\Brijesh\OneDrive\Desktop\Python Files\CHATBOT\chatbot.py"
-You: python -u "c:\users\brijesh\onedrive\desktop\python files\chatbot\chatbot.py"
-YOUR DAD: python -u "c:\Users\Brijesh\OneDrive\Desktop\Python Files\CHATBOT\chatbot.py"
 You: hello
 YOUR DAD: Hello! How can I help you today?
 You: hello
