@@ -78,3 +78,13 @@ You: im good
 YOUR DAD: i am good too
 You: im good
 YOUR DAD: i am good too
+You: hey
+YOUR DAD: Hey! How's it going?
+You: hey
+YOUR DAD: Hey! How's it going?
+You: im good
+YOUR DAD: i am good too
+You: what are you?
+YOUR DAD: i am a chatbot
+You: what are you?
+YOUR DAD: i am a chatbot
